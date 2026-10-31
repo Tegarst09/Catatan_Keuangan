@@ -1,0 +1,25 @@
+{
+  "name": "money-track-week-07",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "mobile",
+    "server"
+  ],
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "setup": "node scripts/setup.mjs",
+    "start": "npm run start --workspace mobile --",
+    "web": "npm run web --workspace mobile --",
+    "server": "npm run dev --workspace server",
+    "test": "node --test tests/*.test.mjs server/tests/*.test.mjs",
+    "check": "node scripts/check-source.mjs",
+    "export:web": "npm run export:web --workspace mobile"
+  },
+  "devDependencies": {
+    "@babel/parser": "^7.28.0"
+  }
+}

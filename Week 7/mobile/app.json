@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Money Track — Week 7",
+    "slug": "money-track-week-07",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "light",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "backgroundColor": "#f6f7f2",
+      "image": "./assets/icon.png",
+      "resizeMode": "contain"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.moneytrack.week7"
+    },
+    "android": {
+      "package": "com.moneytrack.week7"
+    },
+    "web": {
+      "bundler": "metro",
+      "favicon": "./assets/icon.png"
+    },
+    "plugins": [
+      "expo-secure-store",
+      [
+        "expo-sensors",
+        {
+          "motionPermission": "Money Track memakai gerakan HP untuk membuka form pengeluaran setelah kamu mengaktifkan sensor."
+        }
+      ]
+    ]
+  }
+}
