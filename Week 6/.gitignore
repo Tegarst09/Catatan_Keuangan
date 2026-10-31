@@ -1,0 +1,14 @@
+node_modules/
+.expo/
+dist/
+dist-native/
+web-build/
+.env
+.env.*
+!.env.example
+server/data/*
+!server/data/.gitkeep
+coverage/
+*.log
+.DS_Store
+Thumbs.db

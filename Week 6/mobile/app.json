@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Money Track — Week 6",
+    "slug": "money-track-week-06",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "light",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "backgroundColor": "#f6f7f2",
+      "image": "./assets/icon.png",
+      "resizeMode": "contain"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.moneytrack.week6"
+    },
+    "android": {
+      "package": "com.moneytrack.week6"
+    },
+    "web": {
+      "bundler": "metro",
+      "favicon": "./assets/icon.png"
+    },
+    "plugins": [
+      "expo-secure-store"
+    ]
+  }
+}

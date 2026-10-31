@@ -1,0 +1,33 @@
+Week 6, Anggota 2. Path relatif terhadap money-track-week-06.
+Total file: 30
+
+.gitignore
+.nvmrc
+README.md
+docs/API.md
+docs/DEMO.md
+docs/FILE_ANGGOTA_1.txt
+docs/FILE_ANGGOTA_2.txt
+docs/PEMBAGIAN.md
+docs/PENGUJIAN.md
+docs/week02.md
+docs/week03.md
+docs/week04.md
+docs/week05.md
+docs/week06.md
+mobile/.env.example
+mobile/app.json
+mobile/index.js
+mobile/package.json
+mobile/src/weeks/week06/task02-loading-retry.js
+mobile/src/weeks/week06/task03-offline.js
+package-lock.json
+package.json
+scripts/check-source.mjs
+scripts/setup.mjs
+server/.env.example
+server/data/.gitkeep
+server/package.json
+server/tests/api.test.mjs
+tests/domain.test.mjs
+tests/network.test.mjs
