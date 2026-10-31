@@ -1,0 +1,22 @@
+Week 3, Anggota 2. Path relatif terhadap money-track-week-03.
+Total file: 19
+
+.gitignore
+.nvmrc
+README.md
+docs/DEMO.md
+docs/FILE_ANGGOTA_1.txt
+docs/FILE_ANGGOTA_2.txt
+docs/PEMBAGIAN.md
+docs/PENGUJIAN.md
+docs/week02.md
+docs/week03.md
+mobile/app.json
+mobile/index.js
+mobile/package.json
+mobile/src/weeks/week03/task02-secure-storage.js
+mobile/src/weeks/week03/task03-security-validation.js
+package-lock.json
+package.json
+scripts/check-source.mjs
+tests/local-auth.test.mjs
