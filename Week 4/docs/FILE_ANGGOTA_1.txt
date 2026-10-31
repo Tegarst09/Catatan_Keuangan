@@ -1,0 +1,21 @@
+Week 4, Anggota 1. Path relatif terhadap money-track-week-04.
+Total file: 18
+
+mobile/App.jsx
+mobile/assets/icon.png
+mobile/src/components/BudgetScreen.jsx
+mobile/src/components/TransactionForm.jsx
+mobile/src/config.js
+mobile/src/demo.js
+mobile/src/theme.js
+mobile/src/weeks/week02/task01-home.jsx
+mobile/src/weeks/week02/task02-responsive.js
+mobile/src/weeks/week02/task03-accessibility.jsx
+mobile/src/weeks/week03/local-auth.js
+mobile/src/weeks/week03/local-session.jsx
+mobile/src/weeks/week03/session-store.js
+mobile/src/weeks/week03/task01-auth-flow.jsx
+mobile/src/weeks/week03/task02-secure-storage.js
+mobile/src/weeks/week03/task03-security-validation.js
+mobile/src/weeks/week04/task01-data-model.js
+server/src/store.mjs

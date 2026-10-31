@@ -1,0 +1,36 @@
+Week 4, Anggota 2. Path relatif terhadap money-track-week-04.
+Total file: 33
+
+.gitignore
+.nvmrc
+README.md
+docs/API.md
+docs/DEMO.md
+docs/FILE_ANGGOTA_1.txt
+docs/FILE_ANGGOTA_2.txt
+docs/PEMBAGIAN.md
+docs/PENGUJIAN.md
+docs/week02.md
+docs/week03.md
+docs/week04.md
+mobile/.env.example
+mobile/app.json
+mobile/index.js
+mobile/package.json
+mobile/src/core/api-error.js
+mobile/src/core/request-state.js
+mobile/src/core/use-resource.js
+mobile/src/weeks/week04/task02-rest-api.js
+mobile/src/weeks/week04/task03-api-data.jsx
+package-lock.json
+package.json
+scripts/check-source.mjs
+scripts/setup.mjs
+server/.env.example
+server/data/.gitkeep
+server/package.json
+server/src/app.mjs
+server/src/index.mjs
+server/tests/api.test.mjs
+tests/data-api.test.mjs
+tests/local-auth.test.mjs

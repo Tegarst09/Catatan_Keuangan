@@ -1,0 +1,11 @@
+{
+  "name": "@money-track/server",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node --env-file-if-exists=.env --watch src/index.mjs",
+    "start": "node --env-file-if-exists=.env src/index.mjs"
+  },
+  "dependencies": {}
+}
